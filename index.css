@@ -1,0 +1,26 @@
+td {
+    border: 1px black solid;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+table{
+    margin: 10% auto;
+    border: 1px black solid;
+}
+.whoWon {
+    height: 40px;
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.restart{
+    cursor: pointer;
+    margin: 0 auto;
+    background-color: lightblue;
+    border-radius: 1em;
+    height: 1.5em;
+    text-align: center;
+    width: 150px
+}
